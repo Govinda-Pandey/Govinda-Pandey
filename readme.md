@@ -2,8 +2,6 @@
 Govinda</a></h1>
 <h3 align="center">A passionate Mobile App developer from Kathmandu Nepal </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <p align="left"> <a href="https://www.linkedin.com/in/govinda-pandey-ba0b801b6/" target="blank">LinkedIn</a> </p>
 
 <a target="_blank" align="center">
